@@ -1,1 +1,2 @@
-阿发三大方法
+config:
+  info: "master branch,springcloud/config-dev.yml version=1"
